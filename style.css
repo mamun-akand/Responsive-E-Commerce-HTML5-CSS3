@@ -296,15 +296,15 @@ nav{
 }
 .register-main{
     width: 100%;
-    min-height: 88vh;
+    min-height: 82vh;
     padding: 4rem 0;
     padding-bottom: 20vh;
-      /* background-color: #a0a2a3; */
-      width: 100%;
-      height: auto;
-      margin-top: -4vh;
-      margin-bottom: 6vh;
-      padding: 10vh;
+    /* background-color: #a0a2a3; */
+    width: 100%;
+    height: auto;
+    margin-top: -3vh;
+    margin-bottom: 1vh;
+    padding: 10vh;
 }
 .login-main{
     width: 100%;
@@ -350,7 +350,7 @@ nav{
     /* background-color: #a0a2a3; */
     width: 100%;
     height: auto;
-    margin-top: 5vh;
+    margin-top: 3vh;
     margin-bottom: 1vh;
     padding: 10vh;
 }
@@ -367,8 +367,8 @@ nav{
     /* background-color: #a0a2a3; */
     width: 100%;
     height: auto;
-    margin-top: 9vh;
-    margin-bottom: 10vh;
+    margin-top: 7vh;
+    margin-bottom: 8vh;
     padding: 10vh;
 }
 .log-main{
